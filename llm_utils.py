@@ -1,7 +1,7 @@
 import requests
 
 # ⭐ MANUALLY PASTE YOUR API KEY HERE ⭐
-API_KEY = "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"
+API_KEY = "enter your key here"
 
 MODEL = "mistralai/ministral-14b-2512"
 URL = "https://openrouter.ai/api/v1/chat/completions"
